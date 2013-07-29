@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.IO;
-using RERev.Methods;
+using RERev.Utils;
 using RERev.Arc.Structs;
 namespace RERev.Arc
 {
